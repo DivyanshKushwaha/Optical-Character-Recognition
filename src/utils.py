@@ -1,5 +1,5 @@
 import re
-import constants
+from src import constants
 import os
 import requests
 import pandas as pd
